@@ -6,8 +6,10 @@ public class HelloTest {
 
 		System.out.println("Hai welcome to git");
 		System.out.println("Hello");
-		System.out.println("Hello First Git");
-		System.out.println("Branch Shifting");
+		System.out.println("Hello First Git:");
+		System.out.println(" Second commit");
+		System.out.println(" commit 1");
+		
 	}
 
 }
