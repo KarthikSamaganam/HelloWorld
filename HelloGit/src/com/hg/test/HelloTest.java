@@ -8,6 +8,8 @@ public class HelloTest {
 		System.out.println("Hello");
 		System.out.println("Hello First Git:");
 		System.out.println(" Second commit");
+		System.out.println(" commit 1");
+		System.out.println(" commit 2")
 	}
 
 }
